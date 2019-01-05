@@ -1,4 +1,7 @@
-# simple-atm
+Automated Machine
+=================
+
+
 Very simple and beginner program of ATM also known as Automated Teller Machine.
 Hellow everyone so this is simple project called atm which u can submitt 
 in your school or college.......
